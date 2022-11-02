@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Products>
+	<Product>
+		<Identifier>7699967508730</Identifier>
+		<Manufacturer>Cannada Drops</Manufacturer>
+		<Name>CBD - Széles spektrumú 2000 mg CBD kivonat tetszőleges ízben</Name>
+		<ProductUrl>https://cannadaonline.com/products/cbd-szeles-spektrumu-cbd-kivonat-novenyi-olaj-izesitessel</ProductUrl>
+		<Price>17900</Price>
+		<NetPrice>14094</NetPrice>
+		<ImageUrl>https://cdn.shopify.com/s/files/1/0653/6344/3962/products/cbd_cannada_szolo_full_638b0e99-bb3f-4cca-b4d2-ee1ab31cb797.jpg?v=1665494933</ImageUrl>
+		<Category>Étel-Ital - Táplálékkiegészítő</Category>
+		<Description> 
+		Magas koncentrációjú, THC mentes CBD olaj 30 mililiteres kiszerelésben, 2000mg CBD-vel. Választható íz! CPNP regisztrációval rendelkező, laborban akkreditált termék.
+		Természetes összetevőkből, választható ízzel, melyet magyar gyártásból származó, hidegen sajtolt növényi olajaink biztosítanak. Ezen termékünk csak CBD-t tartalmaz, a THC mentességet laboratóriumi vizsgálatok garantálják.
+		</Description>
+		<DeliveryTime>1 munkanap</DeliveryTime>
+		<DeliveryCost>Ingyenes szállítás</DeliveryCost>
+		<MaxCPCMultiplier>BIDx3</MaxCPCMultiplier>
+		<Attributes>
+			<Attribute>
+				<Attribute_name>Űrtartalom</Attribute_name>
+				<Attribute_value>30 ml</Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name>CBD tartalom</Attribute_name>
+				<Attribute_value>2000 mg</Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name>Tömeg</Attribute_name>
+				<Attribute_value>30 gramm</Attribute_value>
+			</Attribute>
+		</Attributes>
+	</Product>
+	<Product>
+		<Identifier>7699984056570</Identifier>
+		<Manufacturer>Cannada Drops</Manufacturer>
+		<Name>CBD - Széles spektrumú 2000 mg CBD + 550 mg CBG+CBE+CBT kivonat tetszőleges ízben</Name>
+		<ProductUrl>https://cannadaonline.com/products/cbd-plusz-szeles-spektrumu-2000-mg-cbd-es-550-mg-cbg-cbe-cbt-kivonat-novenyi-olaj-izesitessel-30-ml</ProductUrl>
+		<Price>23900</Price>
+		<NetPrice>18819</NetPrice>
+		<ImageUrl>https://cdn.shopify.com/s/files/1/0653/6344/3962/products/cbd_cannada_mariatovis_full_423b1d47-e360-4f6c-a071-6453b2f6d338.jpg?v=1665494933</ImageUrl>
+		<Category>Étel-Ital - Táplálékkiegészítő</Category>
+		<Description> 
+		Magas koncentrációjú, THC mentes CBD olaj 30 mililiteres kiszerelésben, 2000mg CBD-vel és 550mg CBG+CBE+CBT-vel. Választható íz! CPNP regisztrációval rendelkező, laborban akkreditált termék.
+		Természetes összetevőkből, választható ízzel, melyet magyar gyártásból származó, hidegen sajtolt növényi olajaink biztosítanak. Ezen termékünk csak CBD-t, CBG-t, CBE-t, és CBE-t tartalmaz, a THC mentességet laboratóriumi vizsgálatok garantálják.
+		</Description>
+		<DeliveryTime>1 munkanap</DeliveryTime>
+		<DeliveryCost>Ingyenes szállítás</DeliveryCost>
+		<MaxCPCMultiplier>BIDx3</MaxCPCMultiplier>
+		<Attributes>
+			<Attribute>
+				<Attribute_name>Űrtartalom</Attribute_name>
+				<Attribute_value>30 ml</Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name>CBD tartalom</Attribute_name>
+				<Attribute_value>2000 mg</Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name>Tömeg</Attribute_name>
+				<Attribute_value>30 gramm</Attribute_value>
+			</Attribute>
+		</Attributes>
+	</Product>
+</Products>
